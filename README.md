@@ -20,10 +20,10 @@ Feel free to connect with me on LinkedIn to discuss potential collaborations, sh
             src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png"
             alt="csharp" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img
-            src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Vector%20RGB/NET-Core_Logo_2colors_RGB_vector.eps"
+            src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Vector%20RGB/NET-Core_Logo_2colors_Square_Boxed_RGB.png"
              alt="dotnetcore" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img
-            src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Vector%20RGB/ASP.NET-Core-MVC_Logo_2colors_RGB_vector.eps" 
+            src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Vector%20RGB/ASP.NET-Core-MVC_Logo_2colors_Square_Boxed_RGB.png" 
             alt="aspdotnetcore" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-BIG_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"
