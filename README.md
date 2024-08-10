@@ -18,16 +18,16 @@ Feel free to connect with me on LinkedIn to discuss potential collaborations, sh
 <p align="center">
     <a href="" target="_blank"> <img
             src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png"
-            alt="csharp" width="40" height="40" /> </a>
+            alt="csharp" width="50" height="50" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Bitmap%20RGB/Bitmap-BIG_NET-Core-Logo_2colors_Square_Boxed_RGB.png"
-             alt="dotnetcore" width="40" height="40" /> </a>
+             alt="dotnetcore" width="50" height="50" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core/Bitmap%20RGB/Bitmap-BIG_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png" 
-            alt="aspdotnetcore" width="40" height="40" /> </a>
+            alt="aspdotnetcore" width="50" height="50" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-BIG_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"
-            alt="efcore" width="40" height="40" /> </a>
+            alt="efcore" width="50" height="50" /> </a>
     
 </p>
 
