@@ -18,44 +18,45 @@ Feel free to connect with me on LinkedIn to discuss potential collaborations, sh
 <p align="center">
     <a href="" target="_blank"> <img
             src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png"
-            alt="csharp" width="50" height="50" /> </a>
+            alt="csharp" width="60" height="60" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Bitmap%20RGB/Bitmap-BIG_NET-Core-Logo_2colors_Square_Boxed_RGB.png"
-             alt="dotnetcore" width="50" height="50" /> </a>
+             alt="dotnetcore" width="60" height="60" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core/Bitmap%20RGB/Bitmap-BIG_ASP.NET-Core-Logo_2colors_Square_Boxed_RGB.png" 
-            alt="aspdotnetcore" width="50" height="50" /> </a>
+            alt="aspdotnetcore" width="60" height="60" /> </a>
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-BIG_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"
-            alt="efcore" width="50" height="50" /> </a>
+            alt="efcore" width="60" height="60" /> </a>
     
 </p>
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
+            alt="html5" width="60" height="60" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
+            alt="css3" width="60" height="60" /> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a>           
+            alt="bootstrap" width="60" height="60" /> </a>           
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
+            alt="javascript" width="60" height="60" /> </a>
 </p>
 
 <p align="center">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
-            height="40" /> </a>
+            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+            alt="mssql" width="60" height="60" /> </a>
     <a href="https://www.oracle.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a>
+            alt="oracle" width="60" height="60" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+            alt="git" width="60" height="60" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a>        
+            alt="docker" width="60" height="60" /> </a>        
 </p>
