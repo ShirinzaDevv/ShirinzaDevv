@@ -8,9 +8,9 @@
 
 ### Hi there 👋
 
-I am Akbar, a .NET developer with a passion for building scalable and efficient software solutions. I specialize in backend development, cloud integration, and modern web applications using the .NET ecosystem. With a strong foundation in C#, ASP.NET, and SQL Server, I thrive on solving complex challenges and continuously improving my skill set.
+I am Akbar, a .NET developer with a passion for building scalable and efficient software solutions. I specialize in backend development, cloud integration, and modern web applications using the .NET ecosystem. With a strong foundation in C#, ASP.NET Core, and SQL Server, I thrive on solving complex challenges and continuously improving my skill set.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akbar-shirinzade/) to discuss potential collaborations, share knowledge, or just talk tech!
+Feel free to connect with me on LinkedIn to discuss potential collaborations, share knowledge, or just talk tech!
 
 
 ### Technologies 💻
@@ -22,11 +22,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akbar-shi
     <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/.NET%20Core/Vector%20RGB/NET-Core_Logo_2colors_RGB_vector.eps"
              alt="dotnetcore" width="40" height="40" /> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img
+    <a href="" target="_blank"> <img
             src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/ASP.NET%20Core%20MVC/Vector%20RGB/ASP.NET-Core-MVC_Logo_2colors_RGB_vector.eps" 
             alt="aspdotnetcore" width="40" height="40" /> </a>
     <a href="" target="_blank"> <img
-            src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Vector%20RGB/Vector_Entity-Framework-Core-Logo_2Colors_RGB.eps"
+            src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-BIG_Entity-Framework-Core-Logo_2Colors_RGB.png"
             alt="efcore" width="40" height="40" /> </a>
     
 </p>
